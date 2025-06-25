@@ -21,11 +21,6 @@ This project investigates oil market volatility during the June 2025 geopolitica
 
 ## Structure
 
-Or alternatively without the code block:
-
-```markdown
-## Project Structure
-
  - 📁 /notebooks
  - └── Analyzing_Oil_Price_Volatility_Amid_US_Iran_Conflict.ipynb
  - 📁 /data
