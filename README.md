@@ -26,10 +26,10 @@ Or alternatively without the code block:
 ```markdown
 ## Project Structure
 
-- **/notebooks**
-  - `Analyzing_Oil_Price_Volatility_Amid_US_Iran_Conflict.ipynb`
-- **/data**
-  - `oil_data.csv`
-- `requirements.txt`
-- `LICENSE` 
-- `README.md`
+ - 📁 /notebooks
+ - └── Analyzing_Oil_Price_Volatility_Amid_US_Iran_Conflict.ipynb
+ - 📁 /data
+ - └── oil_data.csv
+ - 📄 requirements.txt
+ - 📄 LICENSE
+ - 📄 README.md
