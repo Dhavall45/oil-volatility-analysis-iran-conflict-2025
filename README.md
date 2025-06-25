@@ -20,3 +20,10 @@ This project investigates oil market volatility during the June 2025 geopolitica
 - ⚠️ Event-driven risk management logic
 
 ## Structure
+📁 /notebooks
+└── Analyzing_Oil_Price_Volatility_Amid_US_Iran_Conflict.ipynb
+📁 /data
+└── oil_data.csv
+📄 requirements.txt
+📄 LICENSE
+📄 README.md
