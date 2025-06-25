@@ -1,2 +1,22 @@
-# oil-volatility-analysis-iran-conflict-2025
-Data analysis of oil price volatility amid the June 2025 U.S.-Iran conflict and Strait of Hormuz risk. Includes statistical evaluation, sentiment impact, and geopolitical premium modeling using Python.
+# Oil Volatility Analysis – U.S.-Iran Conflict (June 2025)
+
+## Overview
+This project investigates oil market volatility during the June 2025 geopolitical tensions between the United States and Iran. It evaluates how Brent and WTI prices reacted to risk indicators such as:
+
+- Event severity scores
+- Public sentiment
+- Risk premium fluctuations
+- Strait of Hormuz threats
+
+## Key Insights
+- Brent-WTI spread remained stable at $4.25
+- Geopolitical events influenced risk premiums with a 48–72 hour delay
+- Public sentiment showed no predictive value for price changes (r = 0.15)
+
+## Features
+- 📈 Time-series trend visualizations
+- 🔍 Correlation and risk matrix
+- 📊 Sentiment vs. price overlay
+- ⚠️ Event-driven risk management logic
+
+## Structure
